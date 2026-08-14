@@ -6,7 +6,7 @@ Consulta el estado de las estaciones, planifica tu ruta por los carriles bici y 
 
 ## 🔗 Enlace a la Aplicación
 Puedes acceder a la aplicación en tiempo real aquí:
-👉 **[www.salenbici.vercel.app](https://www.salenbici.vercel.app)**
+👉 **[www.salenbici.vercel.app](http://www.salenbici.vercel.app)**
 
 ## ✨ ¿Qué es Salenbici?
 Salenbici es una herramienta pensada para usuarios frecuentes de sistemas de bicicletas públicas que buscan optimizar sus desplazamientos diarios. La web ofrece:
