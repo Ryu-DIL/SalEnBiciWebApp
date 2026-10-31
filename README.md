@@ -21,4 +21,3 @@ Este proyecto ha sido desarrollado con tecnologías web modernas enfocadas en la
 
 ---
 *Desarrollado con ❤️ para mejorar la movilidad urbana.*
-"""
